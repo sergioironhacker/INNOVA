@@ -56,8 +56,8 @@ function Contact() {
                   <Phone className="w-6 h-6 text-blue-600 dark:text-blue-400 flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-semibold text-gray-800 dark:text-white mb-1">Teléfono</h4>
-                    <a href="tel:+34600000000" className="text-blue-600 dark:text-blue-400 hover:underline">
-                      +34 600 00 00 00
+                    <a href="tel:+34603469103" className="text-blue-600 dark:text-blue-400 hover:underline">
+                      +34 603469103
                     </a>
                   </div>
                 </div>

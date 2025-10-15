@@ -22,8 +22,8 @@ function Hero() {
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       <div className="relative container mx-auto px-4 text-center text-white z-10">
-        <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
-          Expertos en canalones, tejados y cubiertas en Segovia
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 animate-fade-in">
+          Expertos en canalones, tejados y cubiertas en Segovia , Madrid y alrededores
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
           Calidad, rapidez y garantía en cada trabajo
