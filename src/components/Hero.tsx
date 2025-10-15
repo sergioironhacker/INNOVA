@@ -13,7 +13,7 @@ function Hero() {
       id="inicio"
       className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-600 to-blue-800 dark:from-blue-900 dark:to-gray-900 pt-20"
       style={{
-        backgroundImage: "url('/Captura de pantalla 2025-10-15 231042.png')",
+        backgroundImage: 'url(https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=1920)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundBlendMode: 'overlay'
